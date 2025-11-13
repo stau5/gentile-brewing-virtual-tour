@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
+import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+initOpenNextCloudflareForDev();
+
+const nextConfig: NextConfig = {
   async rewrites() {
     return [
       {
@@ -17,6 +19,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-// added by create cloudflare to enable calling `getCloudflareContext()` in `next dev`
-import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
-initOpenNextCloudflareForDev();
