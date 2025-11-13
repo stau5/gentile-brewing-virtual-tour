@@ -1,6 +1,6 @@
 export const dynamic = "force-static";
 
-export default function VirtualTourPage() {
+export default function Home() {
   return (
     <main
       style={{
@@ -9,7 +9,7 @@ export default function VirtualTourPage() {
       }}
     >
       <iframe
-        src="/virtualtour/index.htm"
+        src="/index.htm"
         style={{
           border: "none",
           width: "100vw",
