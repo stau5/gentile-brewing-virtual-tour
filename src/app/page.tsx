@@ -9,7 +9,7 @@ export default function Home() {
       }}
     >
       <iframe
-        src="tour/index.htm"
+        src="/virtualtour/tour/index.htm"
         style={{
           border: "none",
           width: "100vw",
