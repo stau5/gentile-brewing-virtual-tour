@@ -3,19 +3,6 @@ import { initOpenNextCloudflareForDev } from "@opennextjs/cloudflare";
 
 initOpenNextCloudflareForDev();
 
-const nextConfig: NextConfig = {
-  async rewrites() {
-    return [
-      {
-        source: "/virtualtour",
-        destination: "/virtualtour/index.htm",
-      },
-      {
-        source: "/virtualtour/",
-        destination: "/virtualtour/index.htm",
-      },
-    ];
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
