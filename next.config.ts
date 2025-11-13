@@ -7,12 +7,12 @@ const nextConfig: NextConfig = {
   async rewrites() {
     return [
       {
-        source: '/virtualtour',
-        destination: '/virtualtour/index.htm',
+        source: "/virtualtour",
+        destination: "/virtualtour/index.htm",
       },
       {
-        source: '/virtualtour/',
-        destination: '/virtualtour/index.htm',
+        source: "/virtualtour/",
+        destination: "/virtualtour/index.htm",
       },
     ];
   },
