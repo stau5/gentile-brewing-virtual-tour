@@ -1,7 +1,19 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  basePath: "/virtualtour",
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  async rewrites() {
+    return [
+      {
+        source: '/virtualtour',
+        destination: '/virtualtour/index.htm',
+      },
+      {
+        source: '/virtualtour/',
+        destination: '/virtualtour/index.htm',
+      },
+    ];
+  },
 };
 
 export default nextConfig;

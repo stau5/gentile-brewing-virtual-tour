@@ -1,0 +1,117 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_B0108BB0_95CA_BF87_41C7_39D927276B58.source = https://facebook.com/gentilebrewingco
+LinkBehaviour_81726ABB_99C1_CDC7_41E0_65F0EAD676DF.source = https://gentilebrewing.com/
+LinkBehaviour_8E6A43FA_99C0_4341_41CF_83356D624B29.source = https://gentilebrewing.com/
+LinkBehaviour_81342B93_99C0_C3C7_41DF_49F4F9E17150.source = https://gentilebrewing.com/
+LinkBehaviour_88DF2966_95C9_D88B_41E1_8FA9BB4FBA43.source = https://gentilebrewing.com/about/
+LinkBehaviour_FDE083B5_E5E3_4CEC_41D7_AE4BECF64155.source = https://gentilebrewing.com/beer-list/
+LinkBehaviour_88A34E78_95C9_D886_41E0_A54BD758CA05.source = https://gentilebrewing.com/beer-list/
+LinkBehaviour_B01EEBAB_95CA_BF99_41C1_4881D008FE47.source = https://gentilebrewing.com/beer-list/
+LinkBehaviour_A09FCCAC_85B6_EDB3_41D0_0C81C3970E92.source = https://gentilebrewingcompany.square.site/
+LinkBehaviour_B01E5BAD_95CA_BF99_41CB_7996D140C6EA.source = https://gentilebrewingcompany.square.site/
+LinkBehaviour_88B3A481_95D9_4986_41AD_0A269D27C4DF.source = https://gentilebrewingcompany.square.site/
+LinkBehaviour_A074E0AC_85B6_75B2_41D6_BB3F6FF39DED.source = https://gentilebrewingcompany.square.site/
+LinkBehaviour_B0107BAC_95CA_BF9F_41D1_D929B0656BB1.source = https://gentilebrewingcompany.square.site/
+LinkBehaviour_A05FE8FC_85AE_7593_41CB_D72BEF30048B.source = https://twitter.com/GentileBrewing
+LinkBehaviour_B0122BB1_95CA_BF89_41D0_1C8085EEED4A.source = https://twitter.com/GentileBrewing
+LinkBehaviour_EADD0A2D_E5DA_23AD_41CF_5C6065507AF0.source = https://www.facebook.com/gentilebrewingco
+WebFrame_9969895E_859F_B48F_41D2_0A97A350A869_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2939.2777581305845!2d-70.88657888366917!3d42.5493946791746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3141fef449b9f%3A0xcd321d278f14a4c9!2sGentile%20Brewing%20Company!5e0!3m2!1sen!2sus!4v1634332046065!5m2!1sen!2sus
+WebFrame_9969895E_859F_B48F_41D2_0A97A350A869.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2939.2777581305845!2d-70.88657888366917!3d42.5493946791746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3141fef449b9f%3A0xcd321d278f14a4c9!2sGentile%20Brewing%20Company!5e0!3m2!1sen!2sus!4v1634332046065!5m2!1sen!2sus
+LinkBehaviour_B01EDBAF_95CA_BF99_41B7_C1F846407D8C.source = https://www.instagram.com/gentilebrewing/
+LinkBehaviour_EB4100A5_E5DA_1F5D_41EC_8A99A1810EE1.source = https://www.instagram.com/gentilebrewing/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F3CF83A2_FA42_0CF1_41A9_F9EED5B1025D.text = Learn more about Gentile Brewing Company!
+HotspotPanoramaOverlayTextImage_F3CFF3A2_FA42_0CF1_41E2_663D24FCCA3B.text = Nacho  \
+Taco  \
+Slide
+HotspotPanoramaOverlayTextImage_F3CF43A1_FA42_0CF3_41EA_71117DD450A7.text = SEE WHAT'S ON TAP
+HotspotPanoramaOverlayTextImage_F3CF53A2_FA42_0CF1_41C8_5972347A4D15.text = SHOP OUR STORE
+HotspotPanoramaOverlayTextImage_F3CF73A1_FA42_0CF3_41E5_BBAF27EE879F.text = TO BACK DECK
+
+### URL
+overlay_8EB00A4C_95BF_589E_41BE_C6344F75EA6F.url = https://gentilebrewing.com/wp-content/uploads/2020/03/From-Grain-to-Glass-3.mp4
+
+## Media
+
+### Image
+imlevel_B5D6C420_AA31_AF46_41D4_86FCBDB9CEA1.url = media/panorama_87248DC7_9559_5B89_41E0_3C142639F34D_HS_1pbbftpl_en.png
+imlevel_B5D9E59B_AA31_A97A_41C9_47FC848958C5.url = media/panorama_960A9DD6_99C0_4741_41A3_326F8E792D20_HS_nc0ng5f7_en.png
+imlevel_B5DDA4D2_AA31_A8CA_41C3_60A4EC9AD82A.url = media/panorama_9E41A948_9579_7886_41C5_E881B2107DEA_HS_wlmgia6a_en.png
+imlevel_B5D27486_AA31_AF4A_41B4_FA99D239416D.url = media/panorama_9FA10060_9579_C886_41D8_68F3945BE122_HS_wzm4sd7a_en.png
+imlevel_B5D07448_AA31_AFC6_41E3_908BCE96EFC4.url = media/panorama_9FA1E823_9579_5889_41C2_008AD1AF541E_HS_kvge4l3o_en.png
+
+### Title
+panorama_9E41A948_9579_7886_41C5_E881B2107DEA.label = Back
+panorama_9FA1E823_9579_5889_41C2_008AD1AF541E.label = Bar
+panorama_87248DC7_9559_5B89_41E0_3C142639F34D.label = Entrance
+panorama_9FA1D348_9579_C887_41DD_ED7833A97CAC.label = Front
+panorama_9FA10060_9579_C886_41D8_68F3945BE122.label = Merch
+panorama_960A9DD6_99C0_4741_41A3_326F8E792D20.label = Patio
+panorama_9E168A6F_9579_589A_41E2_145B186EDE26.label = Patio Entrance
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = VRtical Media
+
+## Skin
+
+### Image
+Image_64FA5A74_7BEB_0FD2_41B3_0DF767F98D37.url = skin/Image_64FA5A74_7BEB_0FD2_41B3_0DF767F98D37_en.png
+Image_64FA5A74_7BEB_0FD2_41B3_0DF767F98D37_mobile.url = skin/Image_64FA5A74_7BEB_0FD2_41B3_0DF767F98D37_mobile_en.png
+Image_9A4C5A46_8902_937A_41D4_773A893E59D3.url = skin/Image_9A4C5A46_8902_937A_41D4_773A893E59D3_en.jpg
+Image_9A4C5A46_8902_937A_41D4_773A893E59D3_mobile.url = skin/Image_9A4C5A46_8902_937A_41D4_773A893E59D3_mobile_en.jpg
+Image_9BF67D9B_8905_F109_41DA_FA067C9987DB.url = skin/Image_9BF67D9B_8905_F109_41DA_FA067C9987DB_en.jpg
+Image_9BF67D9B_8905_F109_41DA_FA067C9987DB_mobile.url = skin/Image_9BF67D9B_8905_F109_41DA_FA067C9987DB_mobile_en.jpg
+Image_9C532446_8907_B77A_41A3_9BAA5BD510D8.url = skin/Image_9C532446_8907_B77A_41A3_9BAA5BD510D8_en.png
+Image_9C532446_8907_B77A_41A3_9BAA5BD510D8_mobile.url = skin/Image_9C532446_8907_B77A_41A3_9BAA5BD510D8_mobile_en.png
+Image_E888EB6B_E5A5_5C64_41E8_C615AD169F34.url = skin/Image_E888EB6B_E5A5_5C64_41E8_C615AD169F34_en.png
+Image_E888EB6B_E5A5_5C64_41E8_C615AD169F34_mobile.url = skin/Image_E888EB6B_E5A5_5C64_41E8_C615AD169F34_mobile_en.png
+Image_E89BCA8F_E5A7_5CBC_41E3_3DF474E558FC.url = skin/Image_E89BCA8F_E5A7_5CBC_41E3_3DF474E558FC_en.png
+Image_E89BCA8F_E5A7_5CBC_41E3_3DF474E558FC_mobile.url = skin/Image_E89BCA8F_E5A7_5CBC_41E3_3DF474E558FC_mobile_en.png
+Image_E8E7AC5E_E5A4_F459_416A_C8CDDFE50438.url = skin/Image_E8E7AC5E_E5A4_F459_416A_C8CDDFE50438_en.png
+Image_E8E7AC5E_E5A4_F459_416A_C8CDDFE50438_mobile.url = skin/Image_E8E7AC5E_E5A4_F459_416A_C8CDDFE50438_mobile_en.png
+Image_F250A78E_E5E5_D4BC_41C9_0C615D58AECA.url = skin/Image_F250A78E_E5E5_D4BC_41C9_0C615D58AECA_en.png
+Image_F250A78E_E5E5_D4BC_41C9_0C615D58AECA_mobile.url = skin/Image_F250A78E_E5E5_D4BC_41C9_0C615D58AECA_mobile_en.png
+
+### Label
+Label_F00D1717_E5E5_55AB_41E1_FBFFAA04C7DB_mobile.text = ABOUT
+Label_F00D1717_E5E5_55AB_41E1_FBFFAA04C7DB.text = ABOUT
+Label_ADF82BC6_E6FA_E0DF_41E1_50D002707CDA.text = ABOUT GENTILE BREWING
+Label_ADF82BC6_E6FA_E0DF_41E1_50D002707CDA_mobile.text = ABOUT GENTILE BREWING
+Label_E9FBCC7E_E5A5_D45D_41D4_64BC50D11DA8_mobile.text = BEER LIST
+Label_E9FBCC7E_E5A5_D45D_41D4_64BC50D11DA8.text = BEER LIST
+Label_E9ECDCB6_E5A5_54ED_41DD_1FE5A46C8A6B.text = HOME
+Label_E9ECDCB6_E5A5_54ED_41DD_1FE5A46C8A6B_mobile.text = HOME
+Label_E8B9F35F_E5A3_CC5C_41B4_295EED867955.text = ORDER ONLINE
+Label_E8B9F35F_E5A3_CC5C_41B4_295EED867955_mobile.text = ORDER ONLINE
+Label_E8E5F4B6_E5A5_54EC_41E9_93B37AFDFC48_mobile.text = STORE
+Label_E8E5F4B6_E5A5_54EC_41E9_93B37AFDFC48.text = STORE
+
+### Multiline Text
+HTMLText_B2E187DF_E62F_E0ED_41E4_805F87A924E7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:1.52091254752852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.52vmin;font-family:'Goudy Bookletter 1911';">Gentile Brewing Company is a family-owned and operated nano craft brewery located in Beverly, Massachusetts. As Beverly’s first craft beer taproom we are community-focused, family and dog-friendly, and strive for inclusivity in all that we do. Our beers can simply be enjoyed and not fussed over. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.52vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.91vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.52091254752852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.52vmin;font-family:'Goudy Bookletter 1911';">Gentile Brewing Company can be easily found in downtown Beverly, steps from the Beverly Depot MBTA station. The building at 59 Park Street was built in 1884 and originally housed Creesy Shoe Factory, among many other manufacturers over its storied 130 plus year history. Our beers pay homage to those who worked and lived in the Beverly community all of those years ago. We hope you’ll come visit us soon!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.52vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.91vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:1.52091254752852vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.52vmin;font-family:'Goudy Bookletter 1911';">Paul &amp; Christen Gentile</SPAN></SPAN></DIV></div>
+HTMLText_B2E187DF_E62F_E0ED_41E4_805F87A924E7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:2.1739130434782616vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.17vmin;font-family:'Goudy Bookletter 1911';">Gentile Brewing Company is a family-owned and operated nano craft brewery located in Beverly, Massachusetts. As Beverly’s first craft beer taproom we are community-focused, family and dog-friendly, and strive for inclusivity in all that we do. Our beers can simply be enjoyed and not fussed over. </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.91vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.1739130434782616vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.17vmin;font-family:'Goudy Bookletter 1911';">Gentile Brewing Company can be easily found in downtown Beverly, steps from the Beverly Depot MBTA station. The building at 59 Park Street was built in 1884 and originally housed Creesy Shoe Factory, among many other manufacturers over its storied 130 plus year history. Our beers pay homage to those who worked and lived in the Beverly community all of those years ago. We hope you’ll come visit us soon!</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.17vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.91vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.1739130434782616vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.17vmin;font-family:'Goudy Bookletter 1911';">Paul &amp; Christen Gentile</SPAN></SPAN></DIV></div>
+HTMLText_9D304C71_8903_9716_41A1_F88BC8BEBE81.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:21px;"><B>Christen Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:17px;"><B>Co-Owner, Taste Tester Extraordinaire</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:14px;">Aside from a genuine love of craft beer, Christen has over a decade of experience in marketing, corporate communications and social media. While she has not quit her “day job” to taste test at the brewery, Christen has been an avid supporter of Paul and his beer making since she tasted the first stout he made in 2005.</SPAN></SPAN></DIV></div>
+HTMLText_9AE6A62B_890E_930A_41E0_CF238EAF4DAE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:21px;"><B>Lady Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:17px;"><B>Security</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:14px;">Adopted from Puerto Rico via Northeast Animal Shelter, she is the best dog in the world. She even has her own song. Camille will sing it for you if you ask nicely. She spends her days chasing the sunshine around the house or guarding the yard from squirrels and birds. While at the brewery, she can be found chasing the sunshine and greeting visitors.</SPAN></SPAN></DIV></div>
+HTMLText_9AECDE28_8905_9337_41C8_00F046C095BE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:21px;"><B>Paul Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:17px;"><B>Co-Owner, Brewer</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:17px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:14px;">Paul’s love affair with craft beer started in 2005 when his mother bought him a homebrew kit for his birthday. His interest in brewing continued to grow, while he homebrewed often for family and friends. During the Summer of 2008 Paul decided to jump into the craft beer industry with both feet when he was hired by Mercury Brewing Company (Ipswich Ale) in Ipswich, MA. Starting on the bottling line, Paul quickly learned all aspects of brewery operations including, but not limited to, cleaning tanks, filling kegs, fixing fillers and eventually tackling logistics and finance. Under the direction of former Ipswich Ale head brewer Dan Lipke, Paul started professionally brewing in the fall of 2009. He was instrumental in helping brew the full line of Ipswich Ale beers, in addition to many of the contract beers brewed at Mercury Brewing, including Clown Shoes, Slumbrew and Notch Brewing.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:14px;">After successfully making his first batch of craft beer in 2005, Paul knew that he eventually wanted to open a craft brewery in his community. That dream has become a reality.</SPAN></SPAN></DIV></div>
+HTMLText_9D304C71_8903_9716_41A1_F88BC8BEBE81_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:10.5px;"><B>Christen Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:8.5px;"><B>Co-Owner, Taste Tester Extraordinaire</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:7px;">Aside from a genuine love of craft beer, Christen has over a decade of experience in marketing, corporate communications and social media. While she has not quit her “day job” to taste test at the brewery, Christen has been an avid supporter of Paul and his beer making since she tasted the first stout he made in 2005.</SPAN></SPAN></DIV></div>
+HTMLText_9AE6A62B_890E_930A_41E0_CF238EAF4DAE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:10.5px;"><B>Lady Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:8.5px;"><B>Security</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:7px;">Adopted from Puerto Rico via Northeast Animal Shelter, she is the best dog in the world. She even has her own song. Camille will sing it for you if you ask nicely. She spends her days chasing the sunshine around the house or guarding the yard from squirrels and birds. While at the brewery, she can be found chasing the sunshine and greeting visitors.</SPAN></SPAN></DIV></div>
+HTMLText_9AECDE28_8905_9337_41C8_00F046C095BE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#1d2528;font-size:10.5px;"><B>Paul Gentile</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:8.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:8.5px;"><B>Co-Owner, Brewer</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:7px;">Paul’s love affair with craft beer started in 2005 when his mother bought him a homebrew kit for his birthday. His interest in brewing continued to grow, while he homebrewed often for family and friends. During the Summer of 2008 Paul decided to jump into the craft beer industry with both feet when he was hired by Mercury Brewing Company (Ipswich Ale) in Ipswich, MA. Starting on the bottling line, Paul quickly learned all aspects of brewery operations including, but not limited to, cleaning tanks, filling kegs, fixing fillers and eventually tackling logistics and finance. Under the direction of former Ipswich Ale head brewer Dan Lipke, Paul started professionally brewing in the fall of 2009. He was instrumental in helping brew the full line of Ipswich Ale beers, in addition to many of the contract beers brewed at Mercury Brewing, including Clown Shoes, Slumbrew and Notch Brewing.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#444444;font-size:7px;">After successfully making his first batch of craft beer in 2005, Paul knew that he eventually wanted to open a craft brewery in his community. That dream has become a reality.</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_AB8E70BB_8B07_AF0A_41C0_314373169575.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = 360° Virtual Tour of Gentile Brewing Company in Beverly, Massachusetts
+
+### Title
+tour.name = Gentile Brewing Company - 360° Virtual Tour

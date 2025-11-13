@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Francois One";
+   src: url("fonts/Francois One Regular.woff") format("woff"), url("fonts/Francois One Regular.eot") format("embedded-opentype"), url("fonts/Francois One Regular.ttf") format("truetype"), url("fonts/Francois One Regular.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Goudy Bookletter 1911";
+   src: url("fonts/Goudy Bookletter 1911.woff") format("woff"), url("fonts/Goudy Bookletter 1911.eot") format("embedded-opentype"), url("fonts/Goudy Bookletter 1911.ttf") format("truetype"), url("fonts/Goudy Bookletter 1911.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Century Gothic";
+   src: url("fonts/Century Gothic.woff") format("woff"), url("fonts/Century Gothic.eot") format("embedded-opentype"), url("fonts/Century Gothic.TTF") format("truetype"), url("fonts/Century Gothic.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
