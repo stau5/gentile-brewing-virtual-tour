@@ -1,0 +1,24 @@
+.spacer-component {
+  width: 100%;
+  height: var(--_layout---grid--gap-main);
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+
+  box-shadow: none;
+
+  outline: none !important;
+}
+
+.spacer-component:where(.w-variant-e4fc4cad-f8e2-63d7-bb51-6c5b9af34c38) {
+  height: var(--_layout---grid--gap-sm);
+}
+
+.spacer-component:where(.w-variant-60e88f1c-8990-2b60-1d3a-e5ec07d412dc) {
+  height: var(--_layout---grid--gap-md);
+}
+
+.spacer-component:where(.w-variant-aea45f07-8b30-d181-0430-911625064b03) {
+  height: var(--_components---section--padding);
+}
