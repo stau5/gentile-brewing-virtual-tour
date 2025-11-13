@@ -1,12 +1,3 @@
-import config from "../../next.config";
-
-const assetsPrefix =
-  // @ts-expect-error next.config typing
-  (config.assetPrefix as string | undefined) ||
-  // @ts-expect-error next.config typing
-  (config.basePath as string | undefined) ||
-  "";
-
 export const dynamic = "force-static";
 
 export default function Home() {
@@ -18,7 +9,7 @@ export default function Home() {
       }}
     >
       <iframe
-        src={`${assetsPrefix}/tour/index.htm`}
+        src="tour/index.htm"
         style={{
           border: "none",
           width: "100vw",
